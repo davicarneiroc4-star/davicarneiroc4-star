@@ -1,4 +1,4 @@
-# Olá, eu sou o Davi 👋
+# Olá, eu sou o Davi 
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na UNIP, em Belém (PA), em formação para **Engenharia de Dados**.
 
