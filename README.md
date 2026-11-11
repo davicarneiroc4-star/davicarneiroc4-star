@@ -45,4 +45,4 @@ Dashboard interativo com receita, ticket médio, faturamento por região e marca
 ## 📫 Contato
 
 - GitHub: [davicarneiroc4-star](https://github.com/davicarneiroc4-star)
-<!-- - LinkedIn: [seu nome](https://www.linkedin.com/in/seu-usuario) -->
+- LinkedIn: [Davi Carneiro](https://www.linkedin.com/in/davicarneiro-dados)
