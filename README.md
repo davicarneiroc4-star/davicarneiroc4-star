@@ -36,6 +36,10 @@ Banco MySQL com 8 tabelas e cerca de 28 mil registros, **propositalmente sujo**,
 
 Dashboard interativo com receita, ticket médio, faturamento por região e marca, evolução mensal e ranking de vendedores, com medidas em DAX.
 
+## 🎓 Certificações
+
+- **AI Fluency: Framework and Foundations** — Claude Academy (Anthropic), 2026 · [Ver certificado](https://academy.claude.com/verify/268cc42d97e28550f95d54717f223e1f)
+
 ## 📚 Estudando agora
 
 - Testes automatizados com `pytest`
