@@ -33,6 +33,15 @@ Automação que classifica os e-mails novos em 8 categorias, aplica etiquetas no
 - Uma única chamada ao Gemini por execução, com resposta em JSON validada por schema
 - Economia estimada de 15 minutos por dia
 
+### [Pergunte ao ETL: agente de IA sobre dados](https://github.com/davicarneiroc4-star/pergunte-ao-etl) · [Testar demo](https://pergunte-ao-etl.streamlit.app/)
+`Gemini` `Python` `DuckDB` `Streamlit` `pytest`
+
+Agente que responde em português perguntas sobre os dados do meu pipeline ETL, como "qual plano tem o maior churn?".
+
+- Usa function calling para escolher entre 5 ferramentas em Python e SQL somente leitura
+- Mostra as ferramentas e o SQL usados em cada resposta, e refaz a resposta se o modelo tentar inventar números
+- SQL protegido contra alteração de dados e leitura de arquivos, com testes automatizados
+
 ### [Pipeline ETL para uma empresa SaaS](https://github.com/davicarneiroc4-star/etl-saas-pandas-mysql)
 `Python` `Pandas` `MySQL` `SQLAlchemy` `Matplotlib`
 
@@ -42,7 +51,6 @@ Banco MySQL com 8 tabelas e cerca de 28 mil registros, **propositalmente sujo**,
 - Recuperei datas de pagamento cruzando tabelas com `merge`
 - Encontrei e corrigi na origem um bug que gerava 3.778 faturas com datas erradas
 - Calculei MRR, churn mensal e LTV por plano
-- Criei um assistente com IA (Gemini) que responde perguntas sobre esses dados em português · [Testar demo](https://pergunte-ao-etl.streamlit.app/)
 
 ### [Dashboard de Vendas no Power BI](https://github.com/davicarneiroc4-star/dashboard-De-Vendas-No-PowerBI)
 `Power BI` `DAX` `Excel`
