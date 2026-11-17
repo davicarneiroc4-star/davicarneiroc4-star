@@ -1,8 +1,8 @@
 # Olá, eu sou o Davi 
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na UNIP, em Belém (PA), em formação para **Engenharia de Dados**.
+Estudante de **Análise e Desenvolvimento de Sistemas** na UNIP, em Belém (PA), focado em **dados e IA aplicada**.
 
-Gosto de pegar dados bagunçados, entender o que tem de errado neles e transformar em informação que ajude a tomar decisões. Meus projetos simulam problemas reais: bancos com dados sujos, pipelines de ETL e métricas de negócio.
+Gosto de pegar dados bagunçados e problemas do dia a dia e transformar em ferramentas que funcionam: pipelines de ETL, dashboards, agentes de IA e automações que economizam tempo. Uso IA junto com os dados: meu assistente com Gemini responde perguntas sobre o banco tratado pelo meu ETL, e minha automação no n8n classifica e resume e-mails sozinha.
 
 ## 🛠️ Tecnologias
 
