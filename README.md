@@ -14,12 +14,24 @@ Gosto de pegar dados bagunçados, entender o que tem de errado neles e transform
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
 - **Dados:** Python, Pandas, SQL (MySQL), SQLAlchemy
 - **Visualização:** Power BI (DAX), Matplotlib, Excel
+- **IA e automação:** n8n, Google Gemini (function calling, saída em JSON), Claude Code
 - **Ferramentas:** Git, GitHub, VS Code, MySQL Workbench
 
 ## 📂 Projetos
+
+### [Triagem de e-mails com IA](https://github.com/davicarneiroc4-star/automacao-emails-n8n)
+`n8n` `Gemini` `Gmail API` `JavaScript`
+
+Automação que classifica os e-mails novos em 8 categorias, aplica etiquetas no Gmail e manda um resumo diário com prazos de processos seletivos e vagas no meu perfil.
+
+- 93 e-mails classificados em 17 segundos na primeira execução
+- Uma única chamada ao Gemini por execução, com resposta em JSON validada por schema
+- Economia estimada de 15 minutos por dia
 
 ### [Pipeline ETL para uma empresa SaaS](https://github.com/davicarneiroc4-star/etl-saas-pandas-mysql)
 `Python` `Pandas` `MySQL` `SQLAlchemy` `Matplotlib`
@@ -30,6 +42,7 @@ Banco MySQL com 8 tabelas e cerca de 28 mil registros, **propositalmente sujo**,
 - Recuperei datas de pagamento cruzando tabelas com `merge`
 - Encontrei e corrigi na origem um bug que gerava 3.778 faturas com datas erradas
 - Calculei MRR, churn mensal e LTV por plano
+- Criei um assistente com IA (Gemini) que responde perguntas sobre esses dados em português · [Testar demo](https://pergunte-ao-etl.streamlit.app/)
 
 ### [Dashboard de Vendas no Power BI](https://github.com/davicarneiroc4-star/dashboard-De-Vendas-No-PowerBI)
 `Power BI` `DAX` `Excel`
